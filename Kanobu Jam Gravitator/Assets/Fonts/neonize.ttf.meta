@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9d24fc4c8ecf0475294467eb53204d87
+timeCreated: 1490961953
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neonize
+  fontNames:
+  - Neonize
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6a8f3948a47094d1caba297dcfeb2cf6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
